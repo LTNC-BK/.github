@@ -1,14 +1,36 @@
-# Khóa BTL1 - LTNC HK252 
+# 📘 Khóa Học LTNC - HK252 
 
 ## 🎯 Mục tiêu
+- Ôn Tập CK bám sát nội dùng dề HK242 (đề thi mấy thầy không public)
+- Năm rõ kiến thức OOP JAVA
+- Kiến thức Design Patterns
+- Kiến thức OOP trong thực tế trong các Hệ thống backend và Lập Trình Game
+- Python trong lập trình hàm FP
 
 --- 
 
 ## 📅 Lộ trình học lý thuyết và bài tập 
 
+| Buổi  | Nội dung chính |
+|-----|----------------|
+| **BT1** | Lý thuyết + Bài tập trắc nghiệm OOP java  |
+| **BT2** | Thiết kế mô hình quản lí thú cưng java |
+| **BT3** | Thiết kế game xe tăng java |
+| **BT4** | Lý thuyết + Bài tập trắc nghiệm SOLID principles + Design Patterns cơ bản |
+| **BT5** | BTL2 HK242 - Quản lí cổ phiếu java |
+| **BT6** | Thiết kế Layered Architecture java |
+| **BT7** | Lý thuyết + Bài tập trắc nghiệm lập trình hàm python |
+| **BT8** | BTL3 HK242 + thiết kế symbol |
+
 --- 
 
-## 📅 Lộ trình học BTL
+## 📅 Lộ trình học BTL + LAB
+
+| Buổi  | Nội dung chính |
+|-----|----------------|
+| **BTL1** | Kiến thức OOP cơ bản Java |
+| **BTL2** | Kiến thức Design Patterns Java |
+| **BTL3** | Lập trình hàm Python |
 
 --- 
 

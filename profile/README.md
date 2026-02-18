@@ -1,4 +1,4 @@
-# 📘 Khóa Học Lập Trình Nâng Cao - HK252 
+# 📘 Khóa Học Lập Trình Nâng Cao - HK252 (Lý Thuyêt + Bài Tập + CK + 3 BTL + LAB)
 
 ## 🎯 Mục tiêu
 - Ôn Tập CK bám sát nội dùng dề HK242 (đề thi mấy thầy không public)
